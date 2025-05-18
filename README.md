@@ -45,7 +45,7 @@ A web application for viewing RTSP streams using Django and React.
 
 3. Start the React development server:
    ```bash
-   n
+   npm start
 
 4. Open your browser and go to
 
